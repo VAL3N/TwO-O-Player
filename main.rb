@@ -5,7 +5,7 @@ require_relative 'question'
 @inProgress = true
 
 ##Set up for Game
-puts "Welcome to Who's the Rob in the Group (Henry Edition)"
+puts "Welcome to MATH QUIZ!"
 
 print 'Player 1 name: '
 @username = gets.chomp
